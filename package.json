@@ -1,0 +1,12 @@
+{
+  "name": "paddy-trading-bot",
+  "version": "1.0.0",
+  "description": "TradingView → Telegram alert bot for Paddy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
